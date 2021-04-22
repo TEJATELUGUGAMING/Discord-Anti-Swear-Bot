@@ -4,8 +4,8 @@ This discord bot that is open-source, gives you and your friends, a easy step to
 ###  INSTALLATION
 
 -   First Fork the project 
--   In config.js file keep ur bot token 
--   Go to words folder and then go to `blockedWords.js`
+-   In `config.json` file keep ur bot token 
+-   Go to words folder and then go to `blockedWords.json`
 -   Edit the words you want the block words
 -   Convert the repo into `node.js`
 -   type `npm install` to install the files
