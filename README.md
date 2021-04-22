@@ -7,7 +7,11 @@ This discord bot that is open-source, gives you and your friends, a easy step to
 -   In config.js file keep ur bot token 
 -   Go to words folder and then go to `blockedWords.js`
 -   Edit the words you want the block words
--   And Just Run the Bot
+-   Convert the repo into `node.js`
+-   type `npm install` to install the files
+-   after installation type `node index.js`
+-   now ur bot is online 
+
 
 ```{
     "blockedWords": [
