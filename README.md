@@ -17,4 +17,4 @@ This discord bot that is open-source, gives you and your friends, a easy step to
         "yourforthwordhere",
         "yourfifthwordhere",
     ]
-}```
+}
